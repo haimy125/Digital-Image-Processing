@@ -1,0 +1,8 @@
+streamlit
+numpy
+opencv-python-headless
+joblib
+scikit-learn
+ultralytics
+streamlit_webrtc
+ultralytics
