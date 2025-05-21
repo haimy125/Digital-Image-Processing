@@ -7,7 +7,7 @@ import os
 st.set_page_config(layout="wide")
 st.title("Chương 3: Biến đổi độ sáng và lọc trong không gian")
 
-IMAGE_DIR = "E:/XLAS/23610001/data/chuong3"
+IMAGE_DIR = "data/chuong3"
 options = [
     "3.1 Làm âm ảnh (Negative)",
     "3.2 Logarit ảnh",

@@ -7,7 +7,7 @@ import os
 st.set_page_config(layout="wide")
 st.title("Chương 4: Lọc trong miền tần số")
 
-IMAGE_DIR = "E:/XLAS/23610001/data/chuong4"
+IMAGE_DIR = "data/chuong4"
 options = [
     "4.1 Spectrum",
     "4.2 Lọc thông cao (Highpass Filter)",

@@ -7,7 +7,7 @@ from PIL import Image
 st.set_page_config(layout="wide")
 st.title("Chương 9: Xử lý ảnh hình thái")
 
-IMAGE_DIR = "E:/XLAS/23610001/data/chuong9"
+IMAGE_DIR = "data/chuong9"
 options = [
     "9.1 Đếm thành phần liên thông",
     "9.2 Đếm hạt gạo"
