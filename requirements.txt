@@ -5,4 +5,10 @@ joblib
 scikit-learn
 ultralytics
 streamlit_webrtc
-ultralytics
+ultralyticstorch
+torchvision
+Pillow
+numpy
+streamlit
+streamlit-drawable-canvas
+opencv-python
